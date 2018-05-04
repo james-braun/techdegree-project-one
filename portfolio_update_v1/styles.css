@@ -74,6 +74,10 @@ header .profile-image {
   border: 3px solid white;
   transition: all .5s;
 }
+header .profile-image-braun {
+  width: 112px;
+}
+
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
